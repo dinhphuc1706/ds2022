@@ -12,5 +12,5 @@ Group Info
 =======================
 
 * Do Dinh Phuc (BI10-137)
-* Name 2 (ID2)
+* Nguyen Viet Nhan (BI10-132)
 
