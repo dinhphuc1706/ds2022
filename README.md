@@ -13,4 +13,7 @@ Group Info
 
 * Do Dinh Phuc (BI10-137)
 * Nguyen Viet Nhan (BI10-132)
+* Tran Trung Hieu (BI10-058)
+* Do Thanh Hieu (BI10-059)
+* Nguyen Tan Dung (BI10-041)
 
